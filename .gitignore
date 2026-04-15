@@ -12,8 +12,10 @@ __pycache__/
 *.pyo
 
 # Data
+data/raw/
 data/raw/images/
-data/interim/
+!data/raw.dvc
+data/localstore/
 
 # Divers
 .pytest_cache/
