@@ -20,3 +20,4 @@ data/localstore/
 # Divers
 .pytest_cache/
 *.egg-info/
+/best_model_resnet18_finetuned.pth
